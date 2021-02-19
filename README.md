@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I love writing in Python. I cannot stop listening to Anderson .Paak. This is part of my resume and should be more professional. 
+I love writing in Python. I can't stop listening to Anderson .Paak. This is part of my resume and should be more professional. 
