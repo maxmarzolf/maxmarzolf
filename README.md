@@ -1,4 +1,4 @@
-### Hi there 👋
+### Alright :fist:
 
 <!--
 **maxmarzolf/maxmarzolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About me test
+I love writing in Python. I cannot stop listening to Anderson .Paak. This is part of my resume and should probably be more professional. 
